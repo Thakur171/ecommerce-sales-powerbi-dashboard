@@ -79,7 +79,7 @@ The following recommendations are derived from the insights observed in the dash
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard-overview,png)
+![Dashboard](dashboard-overview.png)
 
 ---
 
